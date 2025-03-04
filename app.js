@@ -3,6 +3,9 @@ const bodyParser = require("body-parser");
 const fs = require("fs");
 const PDFDocument = require("pdfkit");
 const app = express();
+
+const PORT = process.env.PORT || 5000;
+require('dotenv').config();
 app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({ extended: true }));
 
@@ -66,6 +69,6 @@ app.post("/generate-pdf", (req, res) => {
   doc.end();
 });
 
-app.listen(3000,()=>{
-  console.log("server is running in the prt 3000")
-})
+app.listen(PORT, () => {
+  console.log(`Server is running on port`);
+});
