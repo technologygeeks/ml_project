@@ -1,0 +1,1202 @@
+[
+  {
+      "name": "Lemon",
+      "soilMoisture": "Low",
+      "temperature": "18-30",
+      "humidity": "45-63",
+      "lightIntensity": "High",
+      "pHLevel": "5.8-6.8"
+  },
+  {
+      "name": "Lettuce",
+      "soilMoisture": "High",
+      "temperature": "15-31",
+      "humidity": "52-63",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.0-6.6"
+  },
+  {
+      "name": "Rosemary",
+      "soilMoisture": "Medium",
+      "temperature": "20-34",
+      "humidity": "50-83",
+      "lightIntensity": "Low",
+      "pHLevel": "5.5-7.4"
+  },
+  {
+      "name": "Pepper",
+      "soilMoisture": "Medium",
+      "temperature": "19-34",
+      "humidity": "55-68",
+      "lightIntensity": "High",
+      "pHLevel": "5.1-7.1"
+  },
+  {
+      "name": "Parsley",
+      "soilMoisture": "Medium",
+      "temperature": "25-35",
+      "humidity": "60-64",
+      "lightIntensity": "Low",
+      "pHLevel": "5.5-6.8"
+  },
+  {
+      "name": "Carrot",
+      "soilMoisture": "Medium",
+      "temperature": "15-34",
+      "humidity": "42-82",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-7.5"
+  },
+  {
+      "name": "Cauliflower",
+      "soilMoisture": "Low",
+      "temperature": "23-33",
+      "humidity": "57-66",
+      "lightIntensity": "Low",
+      "pHLevel": "6.3-7.4"
+  },
+  {
+      "name": "Cilantro",
+      "soilMoisture": "Low",
+      "temperature": "21-34",
+      "humidity": "47-80",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.4-6.8"
+  },
+  {
+      "name": "Papaya",
+      "soilMoisture": "High",
+      "temperature": "22-31",
+      "humidity": "52-67",
+      "lightIntensity": "High",
+      "pHLevel": "5.2-7.4"
+  },
+  {
+      "name": "Pepper",
+      "soilMoisture": "High",
+      "temperature": "15-30",
+      "humidity": "58-71",
+      "lightIntensity": "Low",
+      "pHLevel": "6.2-7.0"
+  },
+  {
+      "name": "Pea",
+      "soilMoisture": "High",
+      "temperature": "22-26",
+      "humidity": "55-61",
+      "lightIntensity": "Low",
+      "pHLevel": "5.1-6.7"
+  },
+  {
+      "name": "Lavender",
+      "soilMoisture": "Medium",
+      "temperature": "25-27",
+      "humidity": "44-68",
+      "lightIntensity": "High",
+      "pHLevel": "5.9-7.7"
+  },
+  {
+      "name": "Tomato",
+      "soilMoisture": "Medium",
+      "temperature": "19-34",
+      "humidity": "52-68",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.0-6.6"
+  },
+  {
+      "name": "Potato",
+      "soilMoisture": "High",
+      "temperature": "11-28",
+      "humidity": "42-66",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.1-7.1"
+  },
+  {
+      "name": "Mango",
+      "soilMoisture": "Low",
+      "temperature": "24-33",
+      "humidity": "44-62",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.8-7.1"
+  },
+  {
+      "name": "Broccoli",
+      "soilMoisture": "Medium",
+      "temperature": "16-30",
+      "humidity": "55-82",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.4-7.2"
+  },
+  {
+      "name": "Mango",
+      "soilMoisture": "High",
+      "temperature": "25-32",
+      "humidity": "55-75",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.4-6.7"
+  },
+  {
+      "name": "Potato",
+      "soilMoisture": "High",
+      "temperature": "13-27",
+      "humidity": "41-75",
+      "lightIntensity": "Low",
+      "pHLevel": "6.0-7.2"
+  },
+  {
+      "name": "Chili",
+      "soilMoisture": "Low",
+      "temperature": "18-35",
+      "humidity": "47-79",
+      "lightIntensity": "High",
+      "pHLevel": "5.4-7.7"
+  },
+  {
+      "name": "Eggplant",
+      "soilMoisture": "Low",
+      "temperature": "15-30",
+      "humidity": "57-76",
+      "lightIntensity": "High",
+      "pHLevel": "5.4-7.1"
+  },
+  {
+      "name": "Pepper",
+      "soilMoisture": "Medium",
+      "temperature": "24-28",
+      "humidity": "49-82",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.4-7.0"
+  },
+  {
+      "name": "Chili",
+      "soilMoisture": "Low",
+      "temperature": "19-29",
+      "humidity": "42-73",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.8-7.4"
+  },
+  {
+      "name": "Turmeric",
+      "soilMoisture": "High",
+      "temperature": "23-33",
+      "humidity": "51-71",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.3-7.5"
+  },
+  {
+      "name": "Corn",
+      "soilMoisture": "Low",
+      "temperature": "25-35",
+      "humidity": "59-75",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.0-7.3"
+  },
+  {
+      "name": "Thyme",
+      "soilMoisture": "High",
+      "temperature": "18-32",
+      "humidity": "45-79",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.4-6.8"
+  },
+  {
+      "name": "Lemon",
+      "soilMoisture": "Medium",
+      "temperature": "22-30",
+      "humidity": "49-69",
+      "lightIntensity": "Low",
+      "pHLevel": "5.8-7.0"
+  },
+  {
+      "name": "Papaya",
+      "soilMoisture": "Low",
+      "temperature": "15-31",
+      "humidity": "47-69",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.5-7.3"
+  },
+  {
+      "name": "Turmeric",
+      "soilMoisture": "Medium",
+      "temperature": "20-31",
+      "humidity": "53-81",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.6-7.0"
+  },
+  {
+      "name": "Onion",
+      "soilMoisture": "Medium",
+      "temperature": "15-32",
+      "humidity": "56-61",
+      "lightIntensity": "Low",
+      "pHLevel": "6.3-7.4"
+  },
+  {
+      "name": "Pineapple",
+      "soilMoisture": "High",
+      "temperature": "18-30",
+      "humidity": "41-75",
+      "lightIntensity": "Low",
+      "pHLevel": "5.7-7.2"
+  },
+  {
+      "name": "Radish",
+      "soilMoisture": "Medium",
+      "temperature": "21-30",
+      "humidity": "56-74",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-7.1"
+  },
+  {
+      "name": "Oregano",
+      "soilMoisture": "High",
+      "temperature": "18-28",
+      "humidity": "53-62",
+      "lightIntensity": "Low",
+      "pHLevel": "5.9-7.3"
+  },
+  {
+      "name": "Apple",
+      "soilMoisture": "Medium",
+      "temperature": "18-31",
+      "humidity": "45-64",
+      "lightIntensity": "High",
+      "pHLevel": "6.2-7.2"
+  },
+  {
+      "name": "Carrot",
+      "soilMoisture": "Low",
+      "temperature": "19-35",
+      "humidity": "51-77",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.9-6.9"
+  },
+  {
+      "name": "Thyme",
+      "soilMoisture": "High",
+      "temperature": "20-32",
+      "humidity": "58-71",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.2-7.6"
+  },
+  {
+      "name": "Apple",
+      "soilMoisture": "Low",
+      "temperature": "20-34",
+      "humidity": "52-84",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.5-7.2"
+  },
+  {
+      "name": "Strawberry",
+      "soilMoisture": "Low",
+      "temperature": "16-27",
+      "humidity": "48-69",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-7.4"
+  },
+  {
+      "name": "Pumpkin",
+      "soilMoisture": "Medium",
+      "temperature": "18-27",
+      "humidity": "49-65",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-7.2"
+  },
+  {
+      "name": "Eggplant",
+      "soilMoisture": "Low",
+      "temperature": "14-33",
+      "humidity": "44-66",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.6-6.9"
+  },
+  {
+      "name": "Potato",
+      "soilMoisture": "Medium",
+      "temperature": "25-28",
+      "humidity": "56-74",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.5-7.7"
+  },
+  {
+      "name": "Cucumber",
+      "soilMoisture": "High",
+      "temperature": "17-31",
+      "humidity": "51-75",
+      "lightIntensity": "Low",
+      "pHLevel": "6.0-7.7"
+  },
+  {
+      "name": "Mango",
+      "soilMoisture": "Low",
+      "temperature": "24-32",
+      "humidity": "42-67",
+      "lightIntensity": "Low",
+      "pHLevel": "5.1-6.6"
+  },
+  {
+      "name": "Thyme",
+      "soilMoisture": "Medium",
+      "temperature": "22-35",
+      "humidity": "60-83",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.0-7.7"
+  },
+  {
+      "name": "Onion",
+      "soilMoisture": "Medium",
+      "temperature": "17-35",
+      "humidity": "40-85",
+      "lightIntensity": "Low",
+      "pHLevel": "5.1-7.7"
+  },
+  {
+      "name": "Cabbage",
+      "soilMoisture": "Low",
+      "temperature": "22-27",
+      "humidity": "41-65",
+      "lightIntensity": "Low",
+      "pHLevel": "6.4-7.2"
+  },
+  {
+      "name": "Wheat",
+      "soilMoisture": "Low",
+      "temperature": "21-28",
+      "humidity": "46-69",
+      "lightIntensity": "Low",
+      "pHLevel": "5.4-7.8"
+  },
+  {
+      "name": "Rosemary",
+      "soilMoisture": "Medium",
+      "temperature": "24-27",
+      "humidity": "58-69",
+      "lightIntensity": "High",
+      "pHLevel": "5.9-7.1"
+  },
+  {
+      "name": "Radish",
+      "soilMoisture": "Low",
+      "temperature": "20-33",
+      "humidity": "50-64",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.5-6.9"
+  },
+  {
+      "name": "Wheat",
+      "soilMoisture": "High",
+      "temperature": "11-32",
+      "humidity": "56-71",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.5-6.8"
+  },
+  {
+      "name": "Mango",
+      "soilMoisture": "Low",
+      "temperature": "11-26",
+      "humidity": "44-71",
+      "lightIntensity": "High",
+      "pHLevel": "5.8-6.7"
+  },
+  {
+      "name": "Potato",
+      "soilMoisture": "Medium",
+      "temperature": "10-30",
+      "humidity": "59-80",
+      "lightIntensity": "High",
+      "pHLevel": "5.0-6.6"
+  },
+  {
+      "name": "Broccoli",
+      "soilMoisture": "High",
+      "temperature": "13-30",
+      "humidity": "55-65",
+      "lightIntensity": "High",
+      "pHLevel": "5.5-6.7"
+  },
+  {
+      "name": "Lavender",
+      "soilMoisture": "Low",
+      "temperature": "19-33",
+      "humidity": "52-74",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.1-7.7"
+  },
+  {
+      "name": "Papaya",
+      "soilMoisture": "Low",
+      "temperature": "11-35",
+      "humidity": "56-65",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.6-6.7"
+  },
+  {
+      "name": "Apple",
+      "soilMoisture": "Medium",
+      "temperature": "11-27",
+      "humidity": "58-73",
+      "lightIntensity": "Low",
+      "pHLevel": "5.2-7.1"
+  },
+  {
+      "name": "Apple",
+      "soilMoisture": "Medium",
+      "temperature": "25-32",
+      "humidity": "47-65",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.4-6.6"
+  },
+  {
+      "name": "Pepper",
+      "soilMoisture": "High",
+      "temperature": "24-31",
+      "humidity": "60-62",
+      "lightIntensity": "High",
+      "pHLevel": "5.5-7.5"
+  },
+  {
+      "name": "Thyme",
+      "soilMoisture": "Medium",
+      "temperature": "17-28",
+      "humidity": "47-63",
+      "lightIntensity": "Low",
+      "pHLevel": "5.3-7.5"
+  },
+  {
+      "name": "Banana",
+      "soilMoisture": "High",
+      "temperature": "13-33",
+      "humidity": "56-70",
+      "lightIntensity": "High",
+      "pHLevel": "5.8-7.7"
+  },
+  {
+      "name": "Lime",
+      "soilMoisture": "Medium",
+      "temperature": "16-29",
+      "humidity": "43-79",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.1-7.4"
+  },
+  {
+      "name": "Lavender",
+      "soilMoisture": "Low",
+      "temperature": "24-27",
+      "humidity": "47-79",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.1-7.8"
+  },
+  {
+      "name": "Lime",
+      "soilMoisture": "High",
+      "temperature": "10-34",
+      "humidity": "46-61",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.7-7.6"
+  },
+  {
+      "name": "Pineapple",
+      "soilMoisture": "Medium",
+      "temperature": "20-28",
+      "humidity": "56-63",
+      "lightIntensity": "High",
+      "pHLevel": "5.6-6.9"
+  },
+  {
+      "name": "Mint",
+      "soilMoisture": "Low",
+      "temperature": "20-28",
+      "humidity": "55-69",
+      "lightIntensity": "High",
+      "pHLevel": "5.3-7.4"
+  },
+  {
+      "name": "Corn",
+      "soilMoisture": "High",
+      "temperature": "24-31",
+      "humidity": "60-71",
+      "lightIntensity": "Low",
+      "pHLevel": "5.8-6.8"
+  },
+  {
+      "name": "Cucumber",
+      "soilMoisture": "High",
+      "temperature": "15-29",
+      "humidity": "42-75",
+      "lightIntensity": "High",
+      "pHLevel": "6.2-7.6"
+  },
+  {
+      "name": "Pumpkin",
+      "soilMoisture": "Low",
+      "temperature": "16-30",
+      "humidity": "50-67",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.2-7.1"
+  },
+  {
+      "name": "Wheat",
+      "soilMoisture": "High",
+      "temperature": "23-32",
+      "humidity": "40-72",
+      "lightIntensity": "Low",
+      "pHLevel": "5.4-6.8"
+  },
+  {
+      "name": "Garlic",
+      "soilMoisture": "High",
+      "temperature": "20-28",
+      "humidity": "43-75",
+      "lightIntensity": "High",
+      "pHLevel": "6.0-6.9"
+  },
+  {
+      "name": "Zucchini",
+      "soilMoisture": "Low",
+      "temperature": "12-35",
+      "humidity": "45-85",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.9-7.0"
+  },
+  {
+      "name": "Pineapple",
+      "soilMoisture": "Low",
+      "temperature": "12-31",
+      "humidity": "47-80",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.9-7.2"
+  },
+  {
+      "name": "Lettuce",
+      "soilMoisture": "High",
+      "temperature": "24-35",
+      "humidity": "48-65",
+      "lightIntensity": "High",
+      "pHLevel": "6.4-6.8"
+  },
+  {
+      "name": "Cabbage",
+      "soilMoisture": "Low",
+      "temperature": "23-31",
+      "humidity": "59-84",
+      "lightIntensity": "Low",
+      "pHLevel": "6.4-6.7"
+  },
+  {
+      "name": "Rosemary",
+      "soilMoisture": "Medium",
+      "temperature": "17-33",
+      "humidity": "42-85",
+      "lightIntensity": "Low",
+      "pHLevel": "5.1-7.3"
+  },
+  {
+      "name": "Wheat",
+      "soilMoisture": "Low",
+      "temperature": "19-28",
+      "humidity": "56-84",
+      "lightIntensity": "Low",
+      "pHLevel": "6.2-7.8"
+  },
+  {
+      "name": "Tomato",
+      "soilMoisture": "Medium",
+      "temperature": "24-33",
+      "humidity": "50-72",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.2-7.5"
+  },
+  {
+      "name": "Broccoli",
+      "soilMoisture": "High",
+      "temperature": "10-33",
+      "humidity": "46-71",
+      "lightIntensity": "Low",
+      "pHLevel": "5.3-7.1"
+  },
+  {
+      "name": "Lime",
+      "soilMoisture": "High",
+      "temperature": "13-26",
+      "humidity": "58-62",
+      "lightIntensity": "High",
+      "pHLevel": "6.3-7.1"
+  },
+  {
+      "name": "Lavender",
+      "soilMoisture": "Medium",
+      "temperature": "23-27",
+      "humidity": "59-64",
+      "lightIntensity": "Low",
+      "pHLevel": "5.5-6.7"
+  },
+  {
+      "name": "Lemon",
+      "soilMoisture": "Low",
+      "temperature": "17-35",
+      "humidity": "58-82",
+      "lightIntensity": "High",
+      "pHLevel": "5.6-7.7"
+  },
+  {
+      "name": "Carrot",
+      "soilMoisture": "High",
+      "temperature": "25-28",
+      "humidity": "56-78",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.8-7.7"
+  },
+  {
+      "name": "Basil",
+      "soilMoisture": "Medium",
+      "temperature": "17-28",
+      "humidity": "52-63",
+      "lightIntensity": "High",
+      "pHLevel": "5.6-6.9"
+  },
+  {
+      "name": "Cabbage",
+      "soilMoisture": "Low",
+      "temperature": "25-31",
+      "humidity": "55-81",
+      "lightIntensity": "High",
+      "pHLevel": "5.5-7.3"
+  },
+  {
+      "name": "Lime",
+      "soilMoisture": "Medium",
+      "temperature": "23-26",
+      "humidity": "46-68",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.1-7.4"
+  },
+  {
+      "name": "Orange",
+      "soilMoisture": "High",
+      "temperature": "21-33",
+      "humidity": "54-61",
+      "lightIntensity": "Low",
+      "pHLevel": "5.9-7.7"
+  },
+  {
+      "name": "Lemon",
+      "soilMoisture": "Low",
+      "temperature": "20-33",
+      "humidity": "54-63",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-6.8"
+  },
+  {
+      "name": "Banana",
+      "soilMoisture": "High",
+      "temperature": "14-28",
+      "humidity": "57-75",
+      "lightIntensity": "Low",
+      "pHLevel": "5.7-7.0"
+  },
+  {
+      "name": "Parsley",
+      "soilMoisture": "Medium",
+      "temperature": "21-32",
+      "humidity": "54-75",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.5-7.0"
+  },
+  {
+      "name": "Mint",
+      "soilMoisture": "Low",
+      "temperature": "18-32",
+      "humidity": "60-68",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-7.3"
+  },
+  {
+      "name": "Spinach",
+      "soilMoisture": "Medium",
+      "temperature": "14-29",
+      "humidity": "56-67",
+      "lightIntensity": "Low",
+      "pHLevel": "5.2-7.4"
+  },
+  {
+      "name": "Onion",
+      "soilMoisture": "Medium",
+      "temperature": "16-33",
+      "humidity": "49-82",
+      "lightIntensity": "Low",
+      "pHLevel": "6.1-7.7"
+  },
+  {
+      "name": "Banana",
+      "soilMoisture": "Medium",
+      "temperature": "23-30",
+      "humidity": "59-75",
+      "lightIntensity": "High",
+      "pHLevel": "5.7-7.4"
+  },
+  {
+      "name": "Radish",
+      "soilMoisture": "Low",
+      "temperature": "18-29",
+      "humidity": "45-76",
+      "lightIntensity": "Low",
+      "pHLevel": "6.5-7.6"
+  },
+  {
+      "name": "Basil",
+      "soilMoisture": "High",
+      "temperature": "17-28",
+      "humidity": "48-84",
+      "lightIntensity": "High",
+      "pHLevel": "5.6-6.7"
+  },
+  {
+      "name": "Thyme",
+      "soilMoisture": "Low",
+      "temperature": "16-32",
+      "humidity": "49-73",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.4-7.5"
+  },
+  {
+      "name": "Pineapple",
+      "soilMoisture": "Medium",
+      "temperature": "24-32",
+      "humidity": "42-78",
+      "lightIntensity": "High",
+      "pHLevel": "5.5-7.6"
+  },
+  {
+      "name": "Apple",
+      "soilMoisture": "Low",
+      "temperature": "19-30",
+      "humidity": "57-72",
+      "lightIntensity": "Low",
+      "pHLevel": "5.9-7.6"
+  },
+  {
+      "name": "Garlic",
+      "soilMoisture": "Low",
+      "temperature": "13-28",
+      "humidity": "41-78",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.2-6.9"
+  },
+  {
+      "name": "Strawberry",
+      "soilMoisture": "High",
+      "temperature": "23-30",
+      "humidity": "51-67",
+      "lightIntensity": "Low",
+      "pHLevel": "6.5-7.1"
+  },
+  {
+      "name": "Rosemary",
+      "soilMoisture": "Low",
+      "temperature": "14-28",
+      "humidity": "52-77",
+      "lightIntensity": "High",
+      "pHLevel": "5.3-7.0"
+  },
+  {
+      "name": "Papaya",
+      "soilMoisture": "Low",
+      "temperature": "24-31",
+      "humidity": "40-75",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.2-7.7"
+  },
+  {
+      "name": "Onion",
+      "soilMoisture": "Low",
+      "temperature": "17-34",
+      "humidity": "47-69",
+      "lightIntensity": "Low",
+      "pHLevel": "5.2-7.3"
+  },
+  {
+      "name": "Pepper",
+      "soilMoisture": "Low",
+      "temperature": "25-33",
+      "humidity": "54-81",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.0-7.7"
+  },
+  {
+      "name": "Onion",
+      "soilMoisture": "High",
+      "temperature": "22-30",
+      "humidity": "50-76",
+      "lightIntensity": "High",
+      "pHLevel": "5.5-7.6"
+  },
+  {
+      "name": "Banana",
+      "soilMoisture": "High",
+      "temperature": "19-27",
+      "humidity": "48-77",
+      "lightIntensity": "Low",
+      "pHLevel": "5.2-7.6"
+  },
+  {
+      "name": "Papaya",
+      "soilMoisture": "High",
+      "temperature": "17-34",
+      "humidity": "47-79",
+      "lightIntensity": "Low",
+      "pHLevel": "6.3-6.6"
+  },
+  {
+      "name": "Papaya",
+      "soilMoisture": "Medium",
+      "temperature": "21-33",
+      "humidity": "55-79",
+      "lightIntensity": "Low",
+      "pHLevel": "6.0-7.2"
+  },
+  {
+      "name": "Lemon",
+      "soilMoisture": "Low",
+      "temperature": "14-33",
+      "humidity": "50-77",
+      "lightIntensity": "Low",
+      "pHLevel": "5.3-7.0"
+  },
+  {
+      "name": "Zucchini",
+      "soilMoisture": "High",
+      "temperature": "11-31",
+      "humidity": "58-77",
+      "lightIntensity": "Low",
+      "pHLevel": "5.8-7.0"
+  },
+  {
+      "name": "Potato",
+      "soilMoisture": "High",
+      "temperature": "20-32",
+      "humidity": "53-84",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.4-7.8"
+  },
+  {
+      "name": "Pea",
+      "soilMoisture": "High",
+      "temperature": "19-30",
+      "humidity": "46-76",
+      "lightIntensity": "Low",
+      "pHLevel": "6.0-7.3"
+  },
+  {
+      "name": "Rosemary",
+      "soilMoisture": "Low",
+      "temperature": "15-30",
+      "humidity": "58-69",
+      "lightIntensity": "Low",
+      "pHLevel": "5.3-7.3"
+  },
+  {
+      "name": "Wheat",
+      "soilMoisture": "Low",
+      "temperature": "10-32",
+      "humidity": "48-74",
+      "lightIntensity": "High",
+      "pHLevel": "5.4-7.4"
+  },
+  {
+      "name": "Pumpkin",
+      "soilMoisture": "Low",
+      "temperature": "16-34",
+      "humidity": "44-65",
+      "lightIntensity": "High",
+      "pHLevel": "5.3-7.2"
+  },
+  {
+      "name": "Turmeric",
+      "soilMoisture": "Medium",
+      "temperature": "21-34",
+      "humidity": "47-71",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.3-7.6"
+  },
+  {
+      "name": "Corn",
+      "soilMoisture": "Low",
+      "temperature": "19-27",
+      "humidity": "52-80",
+      "lightIntensity": "Low",
+      "pHLevel": "5.1-7.1"
+  },
+  {
+      "name": "Parsley",
+      "soilMoisture": "Medium",
+      "temperature": "25-35",
+      "humidity": "47-76",
+      "lightIntensity": "High",
+      "pHLevel": "5.4-6.7"
+  },
+  {
+      "name": "Oregano",
+      "soilMoisture": "High",
+      "temperature": "12-26",
+      "humidity": "51-73",
+      "lightIntensity": "High",
+      "pHLevel": "5.9-6.9"
+  },
+  {
+      "name": "Pineapple",
+      "soilMoisture": "Low",
+      "temperature": "11-30",
+      "humidity": "56-79",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-6.8"
+  },
+  {
+      "name": "Oregano",
+      "soilMoisture": "Medium",
+      "temperature": "12-29",
+      "humidity": "54-84",
+      "lightIntensity": "High",
+      "pHLevel": "6.0-7.7"
+  },
+  {
+      "name": "Cauliflower",
+      "soilMoisture": "Low",
+      "temperature": "24-32",
+      "humidity": "56-66",
+      "lightIntensity": "Low",
+      "pHLevel": "5.7-7.7"
+  },
+  {
+      "name": "Pepper",
+      "soilMoisture": "Medium",
+      "temperature": "22-29",
+      "humidity": "60-63",
+      "lightIntensity": "High",
+      "pHLevel": "5.6-7.4"
+  },
+  {
+      "name": "Wheat",
+      "soilMoisture": "High",
+      "temperature": "10-30",
+      "humidity": "45-67",
+      "lightIntensity": "High",
+      "pHLevel": "5.7-7.8"
+  },
+  {
+      "name": "Potato",
+      "soilMoisture": "High",
+      "temperature": "24-28",
+      "humidity": "42-63",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-7.7"
+  },
+  {
+      "name": "Banana",
+      "soilMoisture": "Medium",
+      "temperature": "22-28",
+      "humidity": "40-83",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.0-6.9"
+  },
+  {
+      "name": "Chili",
+      "soilMoisture": "High",
+      "temperature": "19-29",
+      "humidity": "53-68",
+      "lightIntensity": "High",
+      "pHLevel": "6.1-7.8"
+  },
+  {
+      "name": "Mint",
+      "soilMoisture": "Medium",
+      "temperature": "22-32",
+      "humidity": "49-71",
+      "lightIntensity": "High",
+      "pHLevel": "5.8-6.8"
+  },
+  {
+      "name": "Mushroom",
+      "soilMoisture": "Medium",
+      "temperature": "24-35",
+      "humidity": "52-78",
+      "lightIntensity": "High",
+      "pHLevel": "5.2-7.5"
+  },
+  {
+      "name": "Eggplant",
+      "soilMoisture": "Low",
+      "temperature": "16-31",
+      "humidity": "59-68",
+      "lightIntensity": "High",
+      "pHLevel": "6.3-7.7"
+  },
+  {
+      "name": "Potato",
+      "soilMoisture": "Low",
+      "temperature": "20-30",
+      "humidity": "56-70",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.3-7.7"
+  },
+  {
+      "name": "Strawberry",
+      "soilMoisture": "High",
+      "temperature": "22-29",
+      "humidity": "41-66",
+      "lightIntensity": "Low",
+      "pHLevel": "5.2-6.7"
+  },
+  {
+      "name": "Banana",
+      "soilMoisture": "High",
+      "temperature": "23-35",
+      "humidity": "42-80",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.9-7.5"
+  },
+  {
+      "name": "Lettuce",
+      "soilMoisture": "Medium",
+      "temperature": "15-29",
+      "humidity": "46-82",
+      "lightIntensity": "Low",
+      "pHLevel": "6.2-7.2"
+  },
+  {
+      "name": "Rosemary",
+      "soilMoisture": "Low",
+      "temperature": "15-29",
+      "humidity": "49-64",
+      "lightIntensity": "High",
+      "pHLevel": "6.4-7.8"
+  },
+  {
+      "name": "Broccoli",
+      "soilMoisture": "Medium",
+      "temperature": "18-35",
+      "humidity": "46-64",
+      "lightIntensity": "High",
+      "pHLevel": "5.3-7.6"
+  },
+  {
+      "name": "Broccoli",
+      "soilMoisture": "Medium",
+      "temperature": "16-27",
+      "humidity": "52-80",
+      "lightIntensity": "High",
+      "pHLevel": "6.2-7.1"
+  },
+  {
+      "name": "Basil",
+      "soilMoisture": "Low",
+      "temperature": "22-27",
+      "humidity": "50-77",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.6-7.3"
+  },
+  {
+      "name": "Pineapple",
+      "soilMoisture": "High",
+      "temperature": "24-33",
+      "humidity": "45-84",
+      "lightIntensity": "High",
+      "pHLevel": "5.5-7.0"
+  },
+  {
+      "name": "Pineapple",
+      "soilMoisture": "Medium",
+      "temperature": "17-34",
+      "humidity": "43-65",
+      "lightIntensity": "High",
+      "pHLevel": "5.2-6.7"
+  },
+  {
+      "name": "Banana",
+      "soilMoisture": "Low",
+      "temperature": "19-27",
+      "humidity": "50-68",
+      "lightIntensity": "Low",
+      "pHLevel": "6.3-7.3"
+  },
+  {
+      "name": "Pepper",
+      "soilMoisture": "High",
+      "temperature": "14-27",
+      "humidity": "58-64",
+      "lightIntensity": "Low",
+      "pHLevel": "5.0-7.6"
+  },
+  {
+      "name": "Garlic",
+      "soilMoisture": "Low",
+      "temperature": "16-26",
+      "humidity": "58-85",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.3-6.9"
+  },
+  {
+      "name": "Tomato",
+      "soilMoisture": "Low",
+      "temperature": "25-31",
+      "humidity": "52-79",
+      "lightIntensity": "Low",
+      "pHLevel": "5.1-7.3"
+  },
+  {
+      "name": "Parsley",
+      "soilMoisture": "Low",
+      "temperature": "15-26",
+      "humidity": "45-63",
+      "lightIntensity": "Low",
+      "pHLevel": "5.7-7.3"
+  },
+  {
+      "name": "Carrot",
+      "soilMoisture": "High",
+      "temperature": "23-34",
+      "humidity": "54-71",
+      "lightIntensity": "Low",
+      "pHLevel": "5.2-6.9"
+  },
+  {
+      "name": "Garlic",
+      "soilMoisture": "Low",
+      "temperature": "16-32",
+      "humidity": "60-81",
+      "lightIntensity": "Medium",
+      "pHLevel": "6.1-6.7"
+  },
+  {
+      "name": "Wheat",
+      "soilMoisture": "High",
+      "temperature": "15-26",
+      "humidity": "54-78",
+      "lightIntensity": "Low",
+      "pHLevel": "5.8-7.3"
+  },
+  {
+      "name": "Rosemary",
+      "soilMoisture": "Medium",
+      "temperature": "12-32",
+      "humidity": "43-62",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.7-7.6"
+  },
+  {
+      "name": "Lime",
+      "soilMoisture": "Low",
+      "temperature": "13-35",
+      "humidity": "60-75",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.1-6.9"
+  },
+  {
+      "name": "Strawberry",
+      "soilMoisture": "Medium",
+      "temperature": "13-32",
+      "humidity": "42-81",
+      "lightIntensity": "Medium",
+      "pHLevel": "5.7-7.8"
+  }
+]
